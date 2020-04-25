@@ -1,0 +1,8 @@
+Pakot qe jane instalu ne terminal gjate kodimit
+
+1. Per package.jon - npm init 
+2. Per nodemon     - npm install nodemon --save-dev 
+3. Per express.js  - npm install express
+4. Per bodyin      - npm install body-parser
+5. bcryp-nodejs    - npm install bcryp-nodejs
+5. cors            - npm install cors
