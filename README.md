@@ -1,2 +1,2 @@
 # FaceRecognition
-MERN - Full Stack WebProject 
+MERN - WebProject 
